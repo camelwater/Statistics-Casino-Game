@@ -1,6 +1,6 @@
 # Statistics-Casino-Game
 
-Casino Card game.
+A random Casino game.
 
 Obviously, the odds are not in your favor, but perhaps if you get lucky...
 
